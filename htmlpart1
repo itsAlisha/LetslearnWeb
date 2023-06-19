@@ -1,0 +1,61 @@
+HTML :
+SEMANTIC AND FORMATTING TAGS : 
+
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <h1 style="background-color: aqua;">This is me </h1>
+    <h2 style="color: brown;">This is also me<br/> </h2>
+    <h3>Hi again</h3>
+    <h4>What u doing?</h4>
+    <h5>Hope u r gr8</h5>
+    <h6>Wassup?</h6>
+    <h7>Here comes  the end</h7>
+    <p>Lorem <strong>ipsum </strong>dolor sit <em>amet consectetur</em> adipisicing elit.<br> Consectetur repellendus fuga eligendi, laborum consequatur possimus pariatur cupiditate beatae corrupti ut. <br>Omnis ipsam nisi sit quisquam consectetur dolor iure nobis odio?</p>
+<a href="https://www.google.com">Click here<br> </a>
+<s>Hi</s>
+<pre>
+    Lorem ipsum dolor sit <u>amet consectetur</u> adipisicing elit. 
+              Numquam distinctio qui voluptatibus molestiae sed eius reprehenderit vitae minus.
+                      Vero neque consequuntur excepturi enim asperiores quis ab officiis! Exercitationem, eveniet quasi.
+</pre>
+<ul>
+    <li>Maggi</li>
+    <li>Paapdi chaat</li>
+    <li>Gol Gappe</li>
+</ul>
+<ol>
+    <li>Maggi</li>
+    <li>Paapdi chaat</li>
+    <li>Gol Gappe</li>
+</ol>
+<dl>
+<dt>Love : </dt>
+    <dd>A feeling that makes you happy with yourself or the person next to you</dd>
+<dt>Hate : </dt>
+    <dd>A feeling opposite to love</dd>
+</dl>
+
+<table>
+    <tr>
+        <td>Rno</td>
+        <td>Name</td>
+        <td>Class</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Alisha</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Amritansh</td>
+        <td>9</td>
+    </tr>
+</table>
+O<sub>2</sub> and 2<sup>5</sup>
+</body>
+</html>
