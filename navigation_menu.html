@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .navigation_bar{
+            background-color: black;
+            border-radius:3px;
+        }
+        .navigation_bar ul{
+            overflow : auto;
+        }
+        .navigation_bar li{
+            float:left;
+            list-style:none;
+            margin:13px 20px;
+        }
+        .navigation_bar li a{
+            padding:3px 3px;
+            text-decoration: none;
+            color:white;
+        }
+        .navigation_bar li a:hover{
+            color:red;
+        }
+        #search{
+            float:right;
+            color:black;
+            padding:12 px 75 px;
+        }
+        .navigation_bar input{
+            border:2px solid black;
+            border-radius: 14px;
+            padding:3px 17px;
+            width:129px;
+            margin: 13px 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+<nav class="navigation_bar">
+    <ul>
+        <li><a href="https://www.google.com">Home</a></li>
+        <li><a href="https://www.google.com">About Us</a></li>
+        <li><a href="https://www.google.com">Services</a></li>
+        <li><a href="https://www.google.com">Contact Us</a></li>
+        <div>
+            <input type="text" name="search" id="search" placeholder="search this website">
+        </div>
+    </ul>
+</nav>
+    </header>
+</body>
+</html>
